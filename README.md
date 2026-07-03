@@ -49,3 +49,13 @@ with \(Z \sim \mathcal{N}(0, 1)\).
 git clone https://github.com/nmadagi/quantitative-derivatives-monte-carlo-lab.git
 cd quantitative-derivatives-monte-carlo-lab
 pip install -r requirements.txt
+
+---
+
+## 👤 Author
+
+**Nitin Madagi** | [GitHub](https://github.com/nmadagi) | [Portfolio](https://nmadagi.github.io/portfolio)
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
